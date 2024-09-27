@@ -97,6 +97,8 @@
           >Don't have an account?</nuxt-link
         >
       </form>
+
+      CHAT
     </div>
   </div>
 </template>
